@@ -5,7 +5,7 @@
     "category": "monitoring",
     "repo": "https://github.com/bernardopg/AiOverviewControl",
     "author": "Bernardo Gomes",
-    "description": "Quota, billing and usage for 39 AI providers, including Claude, Codex, Copilot and Gemini, in DankBar and a DankDash card",
+    "description": "Quota, billing and usage for 40+ AI providers, including Claude, Codex, Copilot and Gemini, in DankBar and a DankDash card",
     "dependencies": ["bash", "jq", "curl", "sqlite3", "flock", "secret-tool"],
     "compositors": ["any"],
     "distro": ["any"],
